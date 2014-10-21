@@ -1,0 +1,15 @@
+#board {
+   float:left;
+   border:1px solid #232323;
+}
+
+#playPause {
+   border:1px solid #000;
+   background: transparent;
+   width: 75px;
+   height: 35px;
+   position:relative;
+   display:inline-block;
+   float:left;
+   margin: 0 0 10px 10px;
+}
